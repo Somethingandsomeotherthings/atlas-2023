@@ -1,0 +1,71 @@
+{
+	"id": 4147,
+	"name": "Patriot/Uncle Ralsei",
+	"description": "Ralsei, the kind-hearted fictional character created by Toby Fox presented in the game Deltatune, depicted in an Uncle Sam based red, white, and blue outfit, he was remade after him and the Terraria Bunny was erased by the r/AFIP Hivemind trying to take their flag back from Germany (not tied to r/placeDE). ",
+	"links": {
+		"subreddit": [
+			"Deltarune"
+		],
+		"discord": [
+			"deltarune"
+		]
+	},
+	"path": {
+		"250-258": [
+			[
+				-82,
+				155
+			],
+			[
+				-82,
+				159
+			],
+			[
+				-76,
+				159
+			],
+			[
+				-76,
+				162
+			],
+			[
+				-74,
+				168
+			],
+			[
+				-72,
+				175
+			],
+			[
+				-61,
+				175
+			],
+			[
+				-59,
+				164
+			],
+			[
+				-63,
+				151
+			],
+			[
+				-69,
+				151
+			],
+			[
+				-74,
+				164
+			],
+			[
+				-76,
+				155
+			]
+		]
+	},
+	"center": {
+		"250-258": [
+			-67,
+			166
+		]
+	}
+}
